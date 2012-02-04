@@ -1,7 +1,7 @@
 // ### Pixel Love - a js1k 2012 entry by @aaronsnoswell
 // This demo is on [github](https://github.com/aaronsnoswell/js1k-2012-love)
 
-// You can also browse the annotated source code at XXX
+// You can also browse the annotated source code at http://aaronsnoswell.github.com/js1k-2012-love/docs/
 
 // Define some variables:
 
